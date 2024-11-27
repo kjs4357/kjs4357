@@ -1,16 +1,16 @@
-## Hi there 👋
+📚 코딩의 즐거움을 함께 나누고 싶어요!
+안녕하세요! 저는 코딩 교육에 관심이 많은 김지수입니다. 💻
+코딩이 처음에는 어렵게 느껴질 수 있지만, 한 줄 한 줄 쌓아가는 과정이 얼마나 재미있는지 함께 경험하고 싶어요. 😊
 
-<!--
-**kjs4357/kjs4357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ 제가 관심 있는 분야
+코딩 교육: 누구나 쉽게 이해할 수 있는 코딩 강의를 만들고 싶어요.
+웹 개발: HTML, CSS, JavaScript를 활용해 간단한 웹사이트를 만드는 방법을 배우고 가르치는 데 흥미가 있어요.
+프로그래밍 언어 기초: Python과 Scratch 같은 쉬운 언어로 코딩 입문을 돕고 싶어요.
+🌱 현재 배우고 있는 것
+Git과 GitHub: 협업과 버전 관리를 배우고 있어요.
+React: 조금 더 멋진 웹사이트를 만들기 위해 공부 중입니다.
+Teaching Skills: 더 쉽게 가르칠 수 있는 방법을 탐구하고 있어요.
+🚀 미래 목표
+코딩을 처음 시작하는 사람들에게 자신감을 줄 수 있는 콘텐츠 제작 🌟
+학교나 지역 커뮤니티에서 코딩 워크숍 진행 🎓
+초등학생부터 성인까지 모두가 쉽게 배울 수 있는 코딩 자료 제작 📘
